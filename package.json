@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/yeion7/websites.git"
+    "url": "git://github.com/FrancisGZ/websites.git"
   },
-  "author": "@yeion7",
+  "author": "@FrancisGZ",
   "license": "BSD",
   "bugs": {
-    "url": "https://github.com/yeion7/websites/issues"
+    "url": "https://github.com/FrancisGZ/websites/issues"
   },
   "devDependencies": {
     "gh-pages-deploy": "~0.4.2"
